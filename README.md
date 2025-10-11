@@ -95,6 +95,8 @@ PAGE-3
 
 
 ## OUTPUT:
+![WhatsApp Image 2025-10-10 at 19 33 42_3521f4e6](https://github.com/user-attachments/assets/22594562-8991-42a3-9d40-f72a6d272ddb)
+
 
 
 
