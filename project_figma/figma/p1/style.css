@@ -1,0 +1,85 @@
+.android-medium {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 100%;
+  min-width: 700px;
+  min-height: 840px;
+  position: relative;
+}
+
+.android-medium .millions-of-PNG {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 700px;
+  height: 840px;
+  object-fit: cover;
+}
+
+.android-medium .saveetha-logo {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 120px;
+  height: auto;
+}
+
+.android-medium .text-wrapper {
+  position: absolute;
+  top: 124px;
+  left: 214px;
+  font-family: "Inter-SemiBold Italic", Helvetica;
+  font-weight: 600;
+  font-style: italic;
+  color: #f61317;
+  font-size: 32px;
+}
+
+.android-medium .rectangle {
+  position: absolute;
+  top: 200px;
+  left: 214px;
+  width: 100px;
+  height: 40px;
+  background-color: #0c85ff;
+  border-radius: 5px;
+}
+
+.android-medium .div {
+  position: absolute;
+  top: 208px;
+  left: 230px;
+  font-family: Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.android-medium .rectangle-2 {
+  position: absolute;
+  top: 260px;
+  left: 214px;
+  width: 100px;
+  height: 40px;
+  background-color: #28a745;
+  border-radius: 5px;
+}
+
+.android-medium .text-wrapper-2 {
+  position: absolute;
+  top: 268px;
+  left: 230px;
+  font-family: Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.android-medium .text-wrapper-3 {
+  position: absolute;
+  top: 815px;
+  left: 121px;
+  font-family: "Inter-SemiBold Italic", Helvetica;
+  font-weight: 600;
+  font-size: 24px;
+  color: #141414;
+}
+
